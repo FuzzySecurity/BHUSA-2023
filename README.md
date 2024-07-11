@@ -4,6 +4,10 @@
 
 [Valentina Palmiotti](https://twitter.com/chompie1337) & [Ruben Boonen](https://twitter.com/FuzzySec)
 
+#### Presentation Recording
+
+YouTube: [https://www.youtube.com/watch?v=t7Rx3crobZU](https://www.youtube.com/watch?v=t7Rx3crobZU)
+
 #### BlackHat Abstract
 
 Our team specializes in conducting advanced Red Team engagements in highly secure environments with complex security measures. These environments demand constant innovation and the development of novel tools, techniques, and procedures to bypass critical endpoint security controls. We have created a versatile kernel rootkit that neutralizes various endpoint sensors providing an effective solution when traditional methods are impossible or cost-prohibitive. Additionally, we have developed novel tradecraft to establish various persistence and data collection channels.
